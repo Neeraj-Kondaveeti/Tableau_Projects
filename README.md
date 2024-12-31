@@ -71,5 +71,4 @@ The goal of this project is to:
 ## Acknowledgments
 This project was completed using Tableau for data visualization and analysis. The CSV data files (`Countries.csv` and `ba_reviews.csv`) were integral to building the dashboard.
 
-For questions or feedback, please reach out to the project creator.
 
