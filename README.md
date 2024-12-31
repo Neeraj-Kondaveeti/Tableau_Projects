@@ -17,7 +17,7 @@ Welcome to the **Tableau Projects Repository**! This repository showcases a coll
 
 ## Projects
 
-### **1. [Airways Dashboard]**
+### **1. Airways Dashboard**
 ---
 
 ## How to Use
